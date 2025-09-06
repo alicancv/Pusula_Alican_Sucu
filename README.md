@@ -145,7 +145,7 @@ The pipeline generates:
 Pusula_Name_Surname/
 ├── README.md
 ├── medical_data_pipeline.py
-├── Medical_Data_Analysis_Documentation.md
+├── Medical_Data_Analysis_Documentation.pdf
 ├── Talent_Academy_Case_DT_2025.xlsx
 └── requirements.txt
 ```
